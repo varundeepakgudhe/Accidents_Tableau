@@ -1,4 +1,5 @@
 # Road Accident Dashboard
+<img width="1495" alt="Screenshot 2023-07-05 at 5 20 18 AM" src="https://github.com/varundeepakgudhe/Accidents_Tableau/assets/112991463/7983c0f5-bf38-4068-bd40-b805bb4c777d">
 
 This project aims to create a comprehensive dashboard using Tableau to analyze road accident data. The dashboard provides key performance indicators (KPIs) for total accidents, casualties, fatal casualties, serious casualties, and slight casualties. It also includes year-on-year (YoY) comparisons for the current year and sparklines to visualize the trend over time and donut charts, map charts for representing casualties due to various factors.
 
